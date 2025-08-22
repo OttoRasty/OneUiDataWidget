@@ -1,0 +1,11 @@
+<resources>
+    <color name="oneui_bg">#F2F4F6</color>
+    <color name="oneui_text_primary">#0A0A0A</color>
+    <color name="oneui_text_secondary">#606368</color>
+
+    <color name="teal_bar">#12C2C2</color>
+    <color name="blue_bar">#2A73FF</color>
+    <color name="green_bar">#18C37E</color>
+
+    <color name="accent">#2A73FF</color>
+</resources>
